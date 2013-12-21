@@ -1,6 +1,6 @@
 # Łukasz Komar's Math Cheat Sheet
 
-This project is meant to be a way of memorizing math formulas and learning LaTeX markup language.
+This project is meant to be a way of memorizing math formulas and showing capabilities of [LaTeX](http://en.wikipedia.org/wiki/LaTeX) math mode.
 
 ## Share LaTeX
 
